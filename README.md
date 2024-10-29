@@ -6,6 +6,8 @@
 
   **22/10/24**
   - Made a word document tutorial on how to make a character move left and right in a 2D game.
+  - 
  
   **24/10/24**
   - copied tutorial into canva to improve asthetics.
+  - 
