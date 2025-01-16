@@ -17,7 +17,24 @@
 - First attempt at making a pick up script.
 
  **12/11/24**
+- Experimented with layout of walls and obstacles for the game prototype.
+- Gave each asset colours to help me see better.
+
+ **19/11/24**
 - Second attempt at pick up script.
 
-- *19/11/24**
-- Third and final attempt/Succesfully made a working puck up script. 
+
+
+ **3/12/24**
+ - First attempt at a hazard/enemy script.
+
+ **10/12/24**
+ - Second attempt at hazard/enemy script.
+
+ **17/12/24**
+ Final Attempt at pick up script - success.
+
+ 
+
+
+
