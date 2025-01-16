@@ -32,7 +32,20 @@
  - Second attempt at hazard/enemy script.
 
  **17/12/24**
- Final Attempt at pick up script - success.
+ - Final Attempt at pick up script - success.
+ - Made Tutorial on how to make a pick up script.
+ - Put previous tutorials into a PowerPoint to keep them all in one place.
+
+ **22/12/24 > 7/1/25**
+Christmas Break - Prioritised other projects.
+
+ **11/1/25**
+ - Finished hazard/enemy script.
+ - Made Tutorial on how to make a hazard script.
+
+ **15/1/25**
+ - Updated pick up script enable an action once all pick ups are collected.
+ - Made a turorial on how to make a pick up based win condition.
 
  
 
