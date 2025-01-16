@@ -8,4 +8,16 @@
 - Made a word document tutorial on how to make a character move left and right in a 2D game.
 
   **24/10/24**
-- Copied tutorial into canva to improve asthetics. 
+- Copied tutorial into canva to improve asthetics.
+
+  **29/10/24**
+- Updated movement script to allow for both horizontal and vertical movement on a 2D plane.
+
+ **5/11/24**
+- First attempt at making a pick up script.
+
+ **12/11/24**
+- Second attempt at pick up script.
+
+- *19/11/24**
+- Third and final attempt/Succesfully made a working puck up script. 
