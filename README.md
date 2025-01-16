@@ -47,7 +47,6 @@ Christmas Break - Prioritised other projects.
  - Updated pick up script enable an action once all pick ups are collected.
  - Made a turorial on how to make a pick up based win condition.
 
- 
-
-
-
+ **16/1/25**
+ - Saved video clips of all the funcions of the prototype game using *Windows + Shift + S > Record*
+ - Put video clips together in Premiere Pro
